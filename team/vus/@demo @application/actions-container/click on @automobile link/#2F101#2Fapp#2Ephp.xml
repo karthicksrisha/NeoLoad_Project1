@@ -1,11 +1,11 @@
 <http-page executeResourcesDynamically="false"
     forceEncodingForDynamicResources="false" name="/101/app.php"
     playRequestsSequentially="false"
-    recordedArtifactZipFileName="team/vus/@demo @application/%resources%/recorded-artifacts/dd17cc03-0def-4fa8-8939-1b1c228f87e4.zip"
+    recordedArtifactZipFileName="team/vus/@demo @application/%resources%/recorded-artifacts/b8848a73-a0f9-4285-9b60-dab2aec040a9.zip"
     slaProfileEnabled="false" thinkTime="308"
     thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
-    thinkTimeRangeStart="" uid="dd17cc03-0def-4fa8-8939-1b1c228f87e4">
-    <embedded-action>3d22f8c7-4b42-489e-8f02-6906a7a03eda</embedded-action>
+    thinkTimeRangeStart="" uid="b8848a73-a0f9-4285-9b60-dab2aec040a9">
+    <embedded-action>dc13070b-c2ee-4b2e-81a2-69c85b87076b</embedded-action>
     <screenshotFileDescription>recorded-screenshots/sc_dd17cc03-0def-4fa8-8939-1b1c228f87e4.jpg</screenshotFileDescription>
 </http-page>
 <http-action actionType="1" contentType="text/html; charset=UTF-8"
@@ -14,10 +14,10 @@
     linkExtractorSeveralMatchOccurrence="1"
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/101/app.php" path="/101/app.php" postType="6"
-    recordedArtifactZipFileName="team/vus/@demo @application/%resources%/recorded-artifacts/dd17cc03-0def-4fa8-8939-1b1c228f87e4.zip"
+    recordedArtifactZipFileName="team/vus/@demo @application/%resources%/recorded-artifacts/b8848a73-a0f9-4285-9b60-dab2aec040a9.zip"
     recordedResponseCode="200" responseSize="64756"
     serverUid="sampleapp.tricentis.com" slaProfileEnabled="false"
-    uid="3d22f8c7-4b42-489e-8f02-6906a7a03eda" useKeepAlive="false">
+    uid="dc13070b-c2ee-4b2e-81a2-69c85b87076b" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_3d22f8c7-4b42-489e-8f02-6906a7a03eda.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_3d22f8c7-4b42-489e-8f02-6906a7a03eda.txt</requestContentFileDescription>
     <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>

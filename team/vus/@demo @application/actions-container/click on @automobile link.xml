@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="click on Automobile link" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="c11190e9-c693-4baa-8078-ea45cc55b30b" weightsEnabled="false">
+    <weighted-embedded-action uid="b8848a73-a0f9-4285-9b60-dab2aec040a9"/>
+</basic-logical-action-container>

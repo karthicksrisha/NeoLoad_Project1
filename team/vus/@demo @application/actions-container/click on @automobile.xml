@@ -1,6 +1,0 @@
-<basic-logical-action-container element-number="1" execution-type="0"
-    name="click on Automobile" pacingEnd="0" pacingMode="MODE_NO_PACING"
-    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
-    uid="b418bd0b-8501-49f3-b795-a84dc1812cef" weightsEnabled="false">
-    <weighted-embedded-action uid="dd17cc03-0def-4fa8-8939-1b1c228f87e4"/>
-</basic-logical-action-container>
