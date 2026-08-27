@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="handle logoff popup" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="b2242d7a-d592-4b8f-a6b7-1f70c020aef5" weightsEnabled="false">
+    <weighted-embedded-action uid="4202bb06-7abb-4019-bfb4-f37eafb14f39"/>
+    <weighted-embedded-action uid="367697b5-07ab-4c34-b526-63b523931183"/>
+    <weighted-embedded-action uid="291ecf9f-c73c-4aeb-b76f-76c62f2c584f"/>
+</basic-logical-action-container>

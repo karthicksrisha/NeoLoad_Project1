@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Open a System" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="4deb4ef5-0250-4495-a38a-47ce0bf1aeba" weightsEnabled="false">
+    <weighted-embedded-action uid="45489eeb-5f5c-4f29-935c-b5abff7c066e"/>
+</basic-logical-action-container>

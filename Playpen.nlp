@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=Playpen
+project.version=8.10
+project.original.version=8.10
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.original.version=2025.1.1
+project.is-open-test-settings-after-upload=false
+project.id=f4c10f1f-2239-4bdf-9d4a-3399e56d85e7
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/karthicksrisha/NeoLoad_Project1

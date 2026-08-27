@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Enter Cred" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="3821607d-485a-47cb-b985-cb9e0a5d2304" weightsEnabled="false">
+    <weighted-embedded-action uid="6895c346-af6d-4acf-a73a-413ab158c088"/>
+    <weighted-embedded-action uid="636b4563-3b16-441f-8da3-199890d47b23"/>
+    <weighted-embedded-action uid="cdb74516-3f84-49ca-9e24-c10665df0564"/>
+    <weighted-embedded-action uid="56ada643-b5fd-4a6f-9ca8-ffe469785c34"/>
+    <weighted-embedded-action uid="e6b46a61-4362-46ae-9064-362e247d4587"/>
+</basic-logical-action-container>

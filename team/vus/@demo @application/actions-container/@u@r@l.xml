@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="URL" pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="15c7a5c6-a394-4385-bfdc-a53ec284b61d" weightsEnabled="false">
+    <weighted-embedded-action uid="3fa708bb-ef56-4e10-a632-5ed5f0257b44"/>
+</basic-logical-action-container>

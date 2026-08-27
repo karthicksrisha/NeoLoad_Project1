@@ -1,0 +1,41 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/api/browser/edge/navigate/3" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/572e3c30-fbd3-4fbe-b760-1876eba992f6.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="572e3c30-fbd3-4fbe-b760-1876eba992f6">
+    <embedded-action>b47ee294-259f-4b92-b1d4-3a7af4fede74</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/api/browser/edge/navigate/3"
+    path="/api/browser/edge/navigate/3" postCharset="UTF-8" postType="4"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/572e3c30-fbd3-4fbe-b760-1876eba992f6.zip"
+    recordedResponseCode="200" responseSize="919"
+    serverUid="europe.smartscreen.microsoft.com"
+    slaProfileEnabled="false" uid="b47ee294-259f-4b92-b1d4-3a7af4fede74" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b47ee294-259f-4b92-b1d4-3a7af4fede74</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b47ee294-259f-4b92-b1d4-3a7af4fede74.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="authorization" value="SmartScreenHash eyJhdXRoSWQiOiI0MWE0MzhiYy0xMjQ5LTQzZDMtYTI2ZC02OWNkNjJjMDgzMTciLCAia2V5IjoienFVTGtLNlpxYkkwL3NMeHRBZVllZz09IiwgImhhc2giOiJFL3FpRUxCNGkxcz0ifQ=="/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="content-type" value="application/json; charset=utf-8"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Tue, 17 Jun 2025 08:23:50 GMT&#xd;
+content-type: application/json; charset=utf-8&#xd;
+content-length: 919&#xd;
+server: Kestrel&#xd;
+cache-control: max-age=0, private&#xd;
+request-context: appId=cid-v1:bfca7677-1085-441f-ad4f-fa34780a8abf</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0","redirectChain":{"source":null,"chain":[]},"identity":{"user":{"locale":"en-GB"},"device":{"id":null,"customId":"fa37c65c-46a2-4c38-a14f-598a1780105f","onlineIdTicket":"t=GwD2Ad9tBAAUNGWfndA/YJrqTGeZ7EgYAHpvoXEOZgAAEMbl4H5VmaF6AppnVhL4O6HAAe7MVU/7A7jl+xKy/kKQIGizpd6w1sx32xaNMHhnRLb5cjgHmNBsUb95ZxPI3j0TA05oY6Nl5gvlwEwBhh8eaux2XyeIZNP4zvBuc/kpkhBBqpGHDgHv+LZouzUwVtrUqwOfQQgkvhunuo7Zy6pmyADhPWyhSvkrbEFURf0YQ0NG80KMqTjvPLqQf9fIJwX9qooASnMZ0P31ESrTLzmF/McwTsDfh5FRNMnI1VRAw19JGi41fMM/ZR/1zKeSIdVhBP+suXjXIxWSSy0znxZiH0yxeRrqs33XVe2KnRZNEqePjuQwB6cA7wOzP+XijcAsZ+2XOEd5VFIFgfjoVH81Xq9ENHli53odvqn8lo86SlRZ2oRlb9DhYZqyNYroF+w9MDmTr5yi9rbNGDxu1EMwEWlpRBS29GScXtJYgUWCwQGGjqD+w293dmLdVScewCvQzfsl/2yo4pmfO1Qshhp+aqxjPqoiP7pMvyP8HGG8ORC3xngokAMcv0JNx4jUhBx48MYFEnvM9v00J5XNl7zY6n3EffkWcmsBJUvW5iurP8kDp8Dtjsj7WAhLEZOo9AiUdc2NEYTqncnSNiP7pPsxzY76AQ==&p=","family":3,"locale":"en-GB","osVersion":"10.0.26100.4061.ge_release","browser":{"internetExplorer":"9.11.26100.0"},"netJoinStatus":2,"enterprise":{"geoId":"EU","organizationId":"f02cf529-da8f-444e-baad-29205af6e3c1","senseId":"e36915938344bec8927b72504e680b71eccc95b7","enabled":true},"cloudSku":false,"architecture":9},"caller":{"locale":"en-GB","name":"","version":"137.0.3296.68 (Official build) "},"client":{"version":"281483730747395","data":{"topTraffic":"638004170464094982","customSynchronousLookupUris":"638101793472573834-2","edgeSettings":"2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1","customSettings":"B3516E7726E1CA125D7DA554EA8EA96D"}}},"config":{"user":{"uriReputation":{"enforcedByPolicy":false,"level":"warn"}},"device":{"appControl":{"level":"anywhere"},"appReputation":{"enforcedByPolicy":false,"level":"warn"}}},"destination":{"uri":"http://www.neotys.com/redirect/redirect.php?target=recorder&lng=en&port=8090","ip":null},"type":"top","forceServiceDetermination":true,"correlationId":"44e4bdf1-6d4e-4ebd-8af1-52a7a7513f5d","synchronous":false}]]></textPostContent>
+</http-action>

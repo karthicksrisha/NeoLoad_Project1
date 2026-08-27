@@ -1,0 +1,47 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/101/app.php"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@demo @application/%resources%/recorded-artifacts/3fa708bb-ef56-4e10-a632-5ed5f0257b44.zip"
+    slaProfileEnabled="false" thinkTime="64"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="3fa708bb-ef56-4e10-a632-5ed5f0257b44">
+    <embedded-action>8cf5af98-d359-4ad7-b8ef-1d16d9350ece</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_3fa708bb-ef56-4e10-a632-5ed5f0257b44.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/101/app.php" path="/101/app.php" postType="6"
+    recordedArtifactZipFileName="team/vus/@demo @application/%resources%/recorded-artifacts/3fa708bb-ef56-4e10-a632-5ed5f0257b44.zip"
+    recordedResponseCode="200" responseSize="64756"
+    serverUid="sampleapp.tricentis.com" slaProfileEnabled="false"
+    uid="8cf5af98-d359-4ad7-b8ef-1d16d9350ece" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_8cf5af98-d359-4ad7-b8ef-1d16d9350ece.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_8cf5af98-d359-4ad7-b8ef-1d16d9350ece.txt</requestContentFileDescription>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-GB,en-US;q=0.9,en;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="optimizelyEndUserId=oeu1759914196639r0.04291038747575793; _mkto_trk=id:070-PYT-570&amp;token:_mch-tricentis.com-ab57742171ae5d70df0e2d26d122ef73; _biz_uid=ffa301e116ac4548cd168cf3a45e2fa1; OptanonAlertBoxClosed=2025-10-13T10:33:01.358Z; _ga_5VTS3QGX40=GS2.2.s1761570523$o4$g1$t1761570591$j60$l0$h0; optimizelySession=0; _biz_flagsA=%7B%22Version%22%3A1%2C%22Mkto%22%3A%221%22%2C%22ViewThrough%22%3A%221%22%2C%22XDomain%22%3A%221%22%2C%22Frm%22%3A%221%22%7D; PAPVisitorId=8NVO51hZu1ur63Vaorn7PoekL9f1auMa; _clck=rrhlua%5E2%5Eg32%5E0%5E2101; apt.uid=AP-EZ7EPHK4AIVE-2-1769511782329-54258732.0.2.29ade43a-654c-4443-9fc2-a53982581875; _ga_65NTGYMYHS=GS2.1.s1769639279$o25$g0$t1769639279$j60$l0$h0; _ga=GA1.2.341704866.1759407336; _ga_4GZTBFVFZ1=GS2.2.s1769678233$o1$g0$t1769678233$j60$l0$h0; OptanonConsent=isGpcEnabled=0&amp;datestamp=Fri+Feb+13+2026+12%3A19%3A14+GMT%2B0000+(Greenwich+Mean+Time)&amp;version=202401.1.0&amp;browserGpcFlag=0&amp;isIABGlobal=false&amp;hosts=&amp;consentId=62cd085b-9cf5-4d08-a3a7-c73a51da04b8&amp;interactionCount=2&amp;landingPath=NotLandingPage&amp;groups=C0001%3A1%2CC0002%3A0%2CC0004%3A0%2CC0003%3A0%2CC0005%3A0&amp;AwaitingReconsent=false&amp;geolocation=GB%3BENG; _biz_nA=14; _biz_pendingA=%5B%5D; _biz_ABTestA=%5B-880923712%2C900667141%2C-2035124671%2C886476222%5D"/>
+    <header name="Host" value="sampleapp.tricentis.com"/>
+    <header name="sec-ch-ua" value="&quot;Not:A-Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;145&quot;, &quot;Chromium&quot;;v=&quot;145&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="document"/>
+    <header name="Sec-Fetch-Mode" value="navigate"/>
+    <header name="Sec-Fetch-Site" value="none"/>
+    <header name="Sec-Fetch-User" value="?1"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Thu, 05 Mar 2026 11:24:16 GMT&#xd;
+Content-Type: text/html; charset=UTF-8&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+Server: nginx/1.28.0&#xd;
+Content-Encoding: gzip&#xd;
+X-Powered-By: PHP/8.2.30</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

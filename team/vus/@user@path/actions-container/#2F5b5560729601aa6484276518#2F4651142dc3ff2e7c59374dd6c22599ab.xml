@@ -1,0 +1,61 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/5b5560729601aa6484276518/4651142dc3ff2e7c59374dd6c22599ab"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/a306a536-b396-4721-a71e-4c12ce277a93.zip"
+    slaProfileEnabled="false" thinkTime="6"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="a306a536-b396-4721-a71e-4c12ce277a93">
+    <embedded-action>18bef1e1-8191-455d-bc30-54d63c3e6e2c</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/5b5560729601aa6484276518/4651142dc3ff2e7c59374dd6c22599ab"
+    path="/5b5560729601aa6484276518/4651142dc3ff2e7c59374dd6c22599ab"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/a306a536-b396-4721-a71e-4c12ce277a93.zip"
+    recordedResponseCode="200" responseSize="334575"
+    serverUid="conf.rollout.io" slaProfileEnabled="false"
+    uid="18bef1e1-8191-455d-bc30-54d63c3e6e2c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_18bef1e1-8191-455d-bc30-54d63c3e6e2c</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_18bef1e1-8191-455d-bc30-54d63c3e6e2c.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="distinct_id"
+        recordRawValue="28b2fec3-86ef-464c-a1ce-0affd68d5f58"
+        separator="=" value="28b2fec3-86ef-464c-a1ce-0affd68d5f58" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="platform"
+        recordRawValue="Browser" separator="=" value="Browser" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="lib_version"
+        recordRawValue="5.4.12" separator="=" value="5.4.12" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="accept-language" value="en,de;q=0.9,de-DE;q=0.8,en-GB;q=0.7,en-US;q=0.6"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json&#xd;
+content-length: 70613&#xd;
+x-amz-replication-status: PENDING&#xd;
+last-modified: Mon, 16 Jun 2025 15:50:37 GMT&#xd;
+x-amz-server-side-encryption: AES256&#xd;
+content-encoding: gzip&#xd;
+x-amz-version-id: 96syURxHf1pDz1gLS.IAMnF6oBitcwhp&#xd;
+content-language: en&#xd;
+accept-ranges: bytes&#xd;
+server: AmazonS3&#xd;
+date: Tue, 17 Jun 2025 08:23:51 GMT&#xd;
+cache-control: no-cache&#xd;
+etag: "bde14c16c35f0212ff060173b4551014"&#xd;
+x-cache: RefreshHit from cloudfront&#xd;
+via: 1.1 302834fc5c34e9ec1e69c64f9c9a7610.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: LHR61-P4&#xd;
+x-amz-cf-id: Mxi3O3PwCuUoD4ny7U9W_oKKJ8I9sP39vlEyDjpdFHlTjHSfngBM6g==</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
